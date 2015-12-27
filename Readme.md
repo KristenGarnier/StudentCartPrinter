@@ -1,10 +1,11 @@
-CardsPrinter App (All About Node.js Course)
-Date : 3-Oct-2015
--------------------------------------------
-Instructions
+#Cardsprinter app
 
-1. Ensure you have Node.js 4.x.x installed.
-2. Ensure you have Python 2.x installed.
+###Goal of this project : Make an app with Hapi which can communication with an app in a different laguage using A message Enqueuer
 
-
-For any issues/help, write to mailme@sachinbhatnagar.com
+Made with :
+* ES6
+* Nodejs
+* Hapi Framework
+* Python
+* ApolloMQ 
+* Logs with good
